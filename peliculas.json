@@ -1,0 +1,18 @@
+{
+    "peli1": {
+        "nombre": "Batman",
+        "year": "2022",
+        "description": "Es una pelicula en la cual..."
+    },
+    "peli2": {
+        "nombre": "Superman",
+        "year": "2022",
+        "description": "Es una pelicula en la cual..."
+    },
+    "peli3": {
+        "nombre": "X-men",
+        "year": "2022",
+        "description": "Es una pelicula en la cual..."
+    }
+
+}
